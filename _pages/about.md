@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will join the [School of Computer Science](https://cs.nju.edu.cn/cs_en/main.htm) at Nanjing University as a Ph.D. student in Fall 2026, advised by Prof. [Yanyan Jiang](https://jiangyy.github.io/). My research interests lie broadly in software systems. As intelligent agents become active participants in software development and maintenance, I am interested in how they can understand, reason about, and evolve complex software systems, enabling more reliable and efficient software engineering.
+I am a Ph.D. student at the [School of Computer Science](https://cs.nju.edu.cn/cs_en/main.htm), Nanjing University, advised by Prof. [Yanyan Jiang](https://jiangyy.github.io/). My research interests lie broadly in software systems. As intelligent agents become active participants in software development and maintenance, I am interested in how they can understand, reason about, and evolve complex software systems, enabling more reliable and efficient software engineering.
 
 Previously, I received my B.S. and M.S. degrees from the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), Shenzhen University, where I was advised by Prof. [Yuhong Feng](https://scholar.google.com/citations?user=29WXQ_sAAAAJ) and Prof. [Xu Wang](https://scholar.google.com/citations?user=XNDHhIEAAAAJ). I worked extensively on system software and security. I have contributed to the [Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=caoyixuan2019) and [LLVM](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3ACao-Wuhui) communities, including enhancements to [page_owner](https://docs.kernel.org/mm/page_owner.html), a Linux kernel memory debugging infrastructure, and [AddressSanitizer](https://clang.llvm.org/docs/AddressSanitizer.html), a memory safety tool. I have also conducted research on software reliability and contributed to vulnerability discovery and disclosure in open-source software systems. Additionally, I was selected as a [Huawei Developer Advocate](https://developer.huawei.com/home/program/advocates/member/7f07f1011f7d48b0bc989f8712919d79) in 2024 and a [Huawei Cloud Student Developers (HCSD) Campus Ambassador](https://developer.huaweicloud.com/program/hcsd/personal?applicationId=046f0ef1ac31471f84b97acadc709be5) in 2025.
 
@@ -33,7 +33,7 @@ Collaborations and discussions are warmly welcomed — feel free to reach out!
 *\* Equal contribution. † Corresponding author.*
 
 # 📖 Educations
-- *2026.09 - (incoming)*, Ph.D., Computer Science and Technology, Nanjing University.
+- *2026.09 - Present*, Ph.D., Computer Science and Technology, Nanjing University.
 - *2023.09 - 2026.07*, M.S., Computer Science and Technology, Shenzhen University.
 - *2019.09 - 2023.07*, B.S., Computer Science and Technology (Honor), Shenzhen University.
 
